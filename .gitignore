@@ -1,6 +1,7 @@
 server/node_modules
 server/dist
 .idea
+server/src/.env
 
 # Logs
 logs
