@@ -1,6 +1,6 @@
 # audioStreamingService
 Fullstack app that provides audio streaming service.
-Technology stack:
+Technology stack:<br>
 -NestJS<br>
--MongoDB
--React
+-MongoDB<br>
+-React<br>
